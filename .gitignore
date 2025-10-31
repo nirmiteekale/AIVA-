@@ -1,0 +1,5 @@
+app/.env
+app/creds/
+__pycache__/
+*.json
+*.log

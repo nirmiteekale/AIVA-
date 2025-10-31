@@ -1,0 +1,10 @@
+Generate a PRD given a short product idea.
+Return Markdown with these sections:
+1) Problem
+2) Goals
+3) Personas
+4) User Stories
+5) KPIs
+6) Scope (In/Out)
+7) Risks & Mitigations
+8) Release Plan (MVP → v1.0)
